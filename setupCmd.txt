@@ -1,0 +1,6 @@
+# chart.js
+npm install chart.js
+
+# chartjs for react - react-chartjs-2
+npm install react-chartjs-2
+
