@@ -4,3 +4,12 @@ npm install chart.js
 # chartjs for react - react-chartjs-2
 npm install react-chartjs-2
 
+# shadcn 
+npx shadcn@latest init
+
+
+# shadcn add sheet 
+npx shadcn@latest add sheet
+
+# sheet: 
+npm install class-variance-authority lucide-react
